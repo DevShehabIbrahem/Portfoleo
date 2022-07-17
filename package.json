@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "vercel": "^27.1.5"
+  },
+  "name": "portfolio-site-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
